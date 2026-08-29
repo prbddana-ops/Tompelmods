@@ -35,6 +35,14 @@
       "status": "approved",
       "max_devices": 1,
       "expiry_date": "2026-08-29"
+    },
+    "DP-OJ9ZT1": {
+      "status": "approved",
+      "max_devices": 1,
+      "expiry_date": "2026-08-31",
+      "hwid": [
+        "570281cbf8f0f919"
+      ]
     }
   }
 }
