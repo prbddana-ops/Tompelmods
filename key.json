@@ -2,10 +2,13 @@
   "settings": {
     "title": "PREMIUM ACCESS",
     "subtitle": "Copy your Device ID and send it to Admin.",
-    "admin_url": "https://whatsapp.com/channel/0029Vb6AOCh3GJOuNQ11W51y",
+    "admin_url": "https://t.me/DPModsYT",
     "banner_url": "https://i.imgur.com/K3yZ8vN.jpg",
-    "maintenance": true,
-    "banned_devices": []
+    "maintenance": false,
+    "banned_devices": [
+      "hacker_hwid_1",
+      "spammer_hwid_2"
+    ]
   },
   "keys": {
     "DP-VIP-101": {
@@ -21,24 +24,6 @@
       "expiry_date": "2099-12-31",
       "hwid": [
         "ANY"
-      ]
-    },
-    "TXR-OFC-2112": {
-      "status": "approved",
-      "max_devices": 10000,
-      "expiry_date": "2026-08-31"
-    },
-    "DP-VIP-011": {
-      "status": "approved",
-      "max_devices": 1,
-      "expiry_date": "2026-08-29"
-    },
-    "DP-OJ9ZT1": {
-      "status": "approved",
-      "max_devices": 1,
-      "expiry_date": "2026-08-31",
-      "hwid": [
-        "570281cbf8f0f919"
       ]
     }
   }
