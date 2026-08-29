@@ -30,6 +30,11 @@
       "status": "approved",
       "max_devices": 10000,
       "expiry_date": "2026-08-31"
+    },
+    "DP-VIP-011": {
+      "status": "approved",
+      "max_devices": 1,
+      "expiry_date": "2026-08-29"
     }
   }
 }
