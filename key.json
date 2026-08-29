@@ -25,6 +25,11 @@
       "hwid": [
         "ANY"
       ]
+    },
+    "TXR-OFC-2112": {
+      "status": "approved",
+      "max_devices": 10000,
+      "expiry_date": "2026-08-31"
     }
   }
 }
